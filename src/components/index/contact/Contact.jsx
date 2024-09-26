@@ -25,13 +25,13 @@ export const Contact = () => {
       </div>
       <div className="flex items-center justify-center gap-6 py-3 bg-accent text-dark">
         <motion.div whileHover={{ y: -2 }} transition={{ type: "spring", stiffness: 200 }}>
-          <IoMdMail size={26} className="cursor-pointer" />
+          <a href="mailto:nataliaemerlo@magil.com"><IoMdMail size={26} className="cursor-pointer" /></a>
         </motion.div>
         <motion.div whileHover={{ y: -2 }} transition={{ type: "spring", stiffness: 200 }}>
-          <FaGithub size={26} className="cursor-pointer" />
+          <a href="https://github.com/nateeva" target="_blank"><FaGithub size={26} className="cursor-pointer" /></a>
         </motion.div>
         <motion.div whileHover={{ y: -2 }} transition={{ type: "spring", stiffness: 200 }}>
-          <FaLinkedin size={26} className="cursor-pointer" />
+          <a href="https://www.linkedin.com/in/nataliaemerlo/" target="_blank"><FaLinkedin size={26} className="cursor-pointer" /></a>
         </motion.div>
       </div>
     </>
