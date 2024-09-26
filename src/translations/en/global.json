@@ -1,0 +1,60 @@
+{
+  "banner": {
+    "portfolio": "portfolio",
+    "frontend_developer": "frontend developer",
+    "web_designer": "web designer",
+    "background_shapes": "background geometric shapes",
+    "about": "about",
+    "works": "works",
+    "contact": "contact"
+  },
+  "about_me": {
+    "hello": "Hi!",
+    "intro": "I'm Natalia, a frontend developer with training in design and programming. Additionally, I'm a psychologist! which gives me a unique perspective on every project.",
+    "passion": "My passion for design, combined with my psychology background, has allowed me to participate in user-centered projects, always looking for creative and innovative solutions 🤝.",
+    "goal": "My goal is to continue growing as a developer 🚀, taking on more complex and advanced challenges.",
+    "invitation": "I invite you to explore my latest works!",
+    "profile_picture_alt": "Photo of Natalia"
+  },
+  "buttons": {
+    "view-project": "View Project",
+    "back-home": "Back to Home"
+  },
+  "works": {
+    "nico-v-rey": {
+      "name": "Nico V Rey",
+      "paragraph1": "Fullstack web application using Laravel for comprehensive project management. Designed to offer an intuitive and efficient interface, allowing users to perform complete CRUD (Create, Read, Update, Delete) operations for projects and associated resources.",
+      "paragraph2": "",
+      "alt": "Project image."
+    },
+    "industria-natural": {
+      "name": "Industria Natural",
+      "paragraph1": "Brand identity, design, prototyping, and development of an ecommerce website. Includes product management, shipping management, and a payment gateway (MercadoPago).",
+      "paragraph2": "The platform ensures an optimal experience across multiple devices and provides a user login system for efficient site administration.",
+      "alt": "Project image."
+    },
+    "vjh-abogados": {
+      "name": "VJH Abogados",
+      "paragraph1": "Design and development of an institutional website using WordPress, focused on enhancing the online presence and providing an informative and accessible platform for the organization.",
+      "paragraph2": "Implemented using WordPress and a custom theme to reflect the institutional identity, featuring a responsive design that ensures an optimal user experience on both mobile and desktop devices.",
+      "alt": "Project image."
+    },
+    "ec-almiron": {
+      "name": "EC Almiron",
+      "paragraph1": "Design and prototyping of an institutional website, developed from a brand manual. The project includes creating an intuitive interface that showcases the services offered by the studio, aligned with the organization's visual identity, ensuring a consistent and engaging user experience.",
+      "paragraph2": "",
+      "alt": "Project image."
+    },
+    "la-octava": {
+      "name": "La Octava",
+      "paragraph1": "Fullstack website built with Laravel, using MySQL as the database management system. The site includes a blog, products, and a comprehensive CRUD (Create, Read, Update, Delete) system for managing products and content.",
+      "paragraph2": "",
+      "alt": "Project image."
+    },
+    "not-found": "Project not found."
+  },
+  "contact-me": {
+    "intro": "Let's work together!",
+    "text": "Thank you for visiting my portfolio. If you liked my work and believe I can add value to your next project or team, feel free to reach out!"
+  }
+}

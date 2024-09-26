@@ -1,0 +1,60 @@
+{
+  "banner": {
+    "portfolio": "portafolio",
+    "frontend_developer": "desarrolladora frontend",
+    "web_designer": "diseñadora web",
+    "background_shapes": "background figuras geométricas",
+    "about": "sobre mí",
+    "works": "trabajos",
+    "contact": "contacto"
+  },
+  "about_me": {
+    "hello": "¡Hola!",
+    "intro": "Soy Natalia, desarrolladora frontend con formación en diseño y programación. Además, ¡soy psicóloga!, lo que me da una perspectiva única en cada proyecto.",
+    "passion": "Mi pasión por el diseño, combinada con mi formación en psicología, me ha permitido participar en proyectos centrados en la experiencia de usuario, siempre buscando soluciones creativas e innovadoras 🤝.",
+    "goal": "Mi objetivo es seguir creciendo como desarrolladora 🚀, asumiendo desafíos más complejos y avanzados.",
+    "invitation": "¡Te invito a explorar mis últimos trabajos!",
+    "profile_picture_alt": "Foto de Natalia"
+  },
+  "buttons": {
+    "view-project": "Ver Proyecto",
+    "back-home": "Volver a Inicio"
+  },
+  "works": {
+    "nico-v-rey": {
+      "name": "Nico V Rey",
+      "paragraph1": "Aplicación web fullstack utilizando Laravel para la gestión integral de proyectos. Diseñado para ofrecer una interfaz intuitiva y eficiente, permitiendo a los usuarios realizar operaciones completas de ABM (Alta, Baja, Modificación) de proyectos y recursos asociados.",
+      "paragraph2": "",
+      "alt": "Imagen de proyecto."
+    },
+    "industria-natural": {
+      "name": "Industria Natural",
+      "paragraph1": "Identidad de marca, diseño, prototipado y desarrollo de un sitio web ecommerce. Incluye gestión de productos, gestión de envíos y pasarela de pago (MercadoPago).",
+      "paragraph2": "La plataforma garantiza una experiencia óptima en múltiples dispositivos y ofrece un sistema de inicio de sesión de usuarios para una administración eficiente del sitio.",
+      "alt": "Imagen de proyecto."
+    },
+    "vjh-abogados": {
+      "name": "VJH Abogados",
+      "paragraph1": "Diseño y desarrollo de un sitio web institucional utilizando WordPress, enfocado en mejorar la presencia en línea y proporcionar una plataforma informativa y accesible para la organización.",
+      "paragraph2": "Implementado utilizando WordPress y un tema personalizado para reflejar la identidad institucional, con un diseño responsive que asegura una experiencia de usuario óptima en dispositivos móviles y de escritorio.",
+      "alt": "Imagen de proyecto."
+    },
+    "ec-almiron": {
+      "name": "EC Almiron",
+      "paragraph1": "Diseño y prototipado de un sitio web institucional, desarrollado a partir de un manual de marca. El proyecto incluye la creación de una interfaz intuitiva que permite visualizar los servicios que ofrece el estudio, alineada con la identidad visual de la organización y garantizando una experiencia de usuario coherente y atractiva.",
+      "paragraph2": "",
+      "alt": "Imagen de proyecto."
+    },
+    "la-octava": {
+      "name": "La Octava",
+      "paragraph1": "Sitio web fullstack construido con Laravel, utilizando MySQL como sistema de gestión de bases de datos. El sitio incluye un blog, productos y un completo sistema de ABM (Alta, Baja, Modificación) para la gestión de productos y contenido.",
+      "paragraph2": "",
+      "alt": "Imagen de proyecto."
+    },
+    "not-found": "Proyecto no encontrado."
+  },
+  "contact-me": {
+    "intro": "¡Trabajemos juntos!",
+    "text": "Gracias por visitar mi portafolio. Si te gustó mi trabajo y crees que puedo agregar valor a tu próximo proyecto o equipo, ¡no dudes en contactarme!"
+  }
+}

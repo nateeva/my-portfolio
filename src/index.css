@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* fonts */
+.font-sora {
+    font-family: 'Sora', sans-serif;
+}
+
+.font-raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+/* scroll infinito de tecnologias */
+@keyframes scroll {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .scroll-horizontal {
+    display: flex;
+    white-space: nowrap;
+    animation: scroll 40s linear infinite;
+  }
+  
