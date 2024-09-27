@@ -9,7 +9,7 @@ export const Contact = () => {
 
   return (
     <>
-      <div id="contacto" className="text-white bg-dark">
+      <div id="contacto" className="overflow-x-hidden text-white bg-dark">
         <div className="max-w-5xl py-20 2xl:max-w-7xl flex mx-auto justify-end lg:h-[50vh] items-center">
           <motion.div
             className="px-6 md:px-12 md:w-1/2 text-end lg:px-0"
@@ -23,6 +23,7 @@ export const Contact = () => {
           </motion.div>
         </div>
       </div>
+
       <div className="flex items-center justify-center gap-6 py-3 bg-accent text-dark">
         <motion.div whileHover={{ y: -2 }} transition={{ type: "spring", stiffness: 200 }}>
           <a href="mailto:nataliaemerlo@magil.com"><IoMdMail size={26} className="cursor-pointer" /></a>
