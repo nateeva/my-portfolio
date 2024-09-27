@@ -94,7 +94,7 @@ export const WorkDetail = () => {
                       <img
                         src={image}
                         alt={t(`works.${slug}.alt`)}
-                        className="object-cover w-full h-[45vh] md:h-[60vh] object-top cursor-pointer"
+                        className="object-cover w-full h-[50vh] md:h-[60vh] object-top cursor-pointer"
                       />
                       <div className="absolute inset-0 bg-white rounded-lg pointer-events-none opacity-10"></div> {/* Reflejo */}
                     </motion.div>
