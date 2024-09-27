@@ -38,7 +38,7 @@
     "slug": "ec-almiron",
     "image": "/assets/images/web-almiron.png",
     "imageDetail": {
-      "imageDetail1": "/assets/images/ec-2.png",
+      "imageDetail1": "/assets/images/web-almiron.png",
       "imageDetail2": "/assets/images/ec-1.png"
     },
     "tecnologias": "Figma / Photoshop / Illustrator",
