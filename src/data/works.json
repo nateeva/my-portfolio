@@ -4,8 +4,7 @@
     "slug": "nico-v-rey",
     "image": "/assets/images/web-nicovrey.png",
     "imageDetail": {
-      "imageDetail1": "/assets/images/nicovrey-1.png",
-      "imageDetail2": "/assets/images/nicovrey-3.png"
+      "imageDetail1": "/assets/images/nicovrey-1.png"
     },
     "tecnologias": "Laravel / TailwindCSS / MySQL",
     "link": "https://nicovrey.com.ar/"
@@ -15,9 +14,8 @@
     "slug": "industria-natural",
     "image": "/assets/images/web-industria-nat.png",
     "imageDetail": {
-      "imageDetail1": "/assets/images/industria-nat-4.png",
-      "imageDetail2": "/assets/images/industria-nat-1.png",
-      "imageDetail3": "/assets/images/industria-nat-2.png"
+      "imageDetail1": "/assets/images/industria-nat-2.png"
+  
     },
     "tecnologias": "React.js / TailwindCSS / MySQL / Figma",
     "link": "https://industrianatural.com.ar/"
@@ -27,8 +25,7 @@
     "slug": "vjh-abogados",
     "image": "/assets/images/web-vjhabogados.png",
     "imageDetail": {
-      "imageDetail1": "/assets/images/vjhabogados-1.png",
-      "imageDetail2": "/assets/images/vjhabogados-2.png"
+      "imageDetail1": "/assets/images/vjhabogados-1.png"
     },
     "tecnologias": "Wordpress / PHP / HTML / CSS",
     "link": "https://vjhabogados.com/"
@@ -38,8 +35,7 @@
     "slug": "ec-almiron",
     "image": "/assets/images/web-almiron.png",
     "imageDetail": {
-      "imageDetail1": "/assets/images/web-almiron.png",
-      "imageDetail2": "/assets/images/ec-1.png"
+      "imageDetail1": "/assets/images/almiron-2.png"
     },
     "tecnologias": "Figma / Photoshop / Illustrator",
     "link": "https://estudiocontablealmiron.com/"
@@ -49,8 +45,7 @@
     "slug": "la-octava",
     "image": "/assets/images/web-laoctava.png",
     "imageDetail": {
-      "imageDetail1": "/assets/images/laoctava-1.png",
-      "imageDetail2": "/assets/images/laoctava-2.png"
+      "imageDetail1": "/assets/images/laoctava-1.png"
     },
     "tecnologias": "Laravel / TailwindCSS / MySQL",
     "link": "https://laoctava.com.ar/"

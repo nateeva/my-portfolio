@@ -39,7 +39,7 @@ export const WorkDetail = () => {
   }
 
   return (
-    <div className="py-16 bg-light min-h-[100vh] px-6 md:px-12">
+    <div className="py-16 bg-light min-h-[100vh] px-6 md:px-12 flex items-center">
       {
         work ? (
           <div className="max-w-6xl mx-auto md:flex">
