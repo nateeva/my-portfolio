@@ -26,7 +26,7 @@ export const Contact = () => {
 
       <div className="flex items-center justify-center gap-6 py-3 bg-accent text-dark">
         <motion.div whileHover={{ y: -2 }} transition={{ type: "spring", stiffness: 200 }}>
-          <a href="mailto:nataliaemerlo@magil.com"><IoMdMail size={26} className="cursor-pointer" /></a>
+          <a href="mailto:nataliaemerlo@gmail.com"><IoMdMail size={26} className="cursor-pointer" /></a>
         </motion.div>
         <motion.div whileHover={{ y: -2 }} transition={{ type: "spring", stiffness: 200 }}>
           <a href="https://github.com/nateeva" target="_blank"><FaGithub size={26} className="cursor-pointer" /></a>
